@@ -2,6 +2,8 @@
 
 I build practical open-source tools and community resources for [Hermes Agent](https://github.com/NousResearch/hermes-agent).
 
+Explore the broader collection at [HermesAgentTools.com](https://hermesagenttools.com/).
+
 ## Featured projects
 
 - [Hermes Tool Router](https://github.com/AtlasOmnia/hermes-tool-router) — A fail-open tool router that reduces first-turn schema overhead with deterministic routing and an optional local-model fallback.
