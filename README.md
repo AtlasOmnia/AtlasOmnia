@@ -8,6 +8,7 @@ I build practical open-source tools and community resources for [Hermes Agent](h
 - [Hermes Agent Megathreads](https://github.com/AtlasOmnia/hermesagent-megathreads) — Community-maintained reference threads for Hermes Agent users.
 - [Hermes Autoresearch](https://github.com/AtlasOmnia/hermes-autoresearch) — A reusable Karpathy-style autoresearch harness.
 - [Hermes Agent Custom Pack](https://github.com/AtlasOmnia/hermes-agent-custom-pack) — A curated collection of tested skills, integrations, scripts, and utilities for Hermes Agent.
+- [donna-starter](https://github.com/AtlasOmnia/donna-starter) — Donna — a starter Hermes Agent profile: opinionated persona, 73 curated skills, guided first-run orientation, optional Token Router. MIT.
 
 ## Community
 
