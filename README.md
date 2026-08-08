@@ -12,7 +12,7 @@ Moderator of [r/hermesagent](https://www.reddit.com/r/hermesagent/).
 | **Install a skill** for Hermes | [hermes-custom-pack](https://github.com/AtlasOmnia/hermes-custom-pack) |
 | **Set up Hermes from scratch** | [Start Here guide](https://github.com/AtlasOmnia/hermes-agent-community/blob/main/guides/start-here.md) |
 | **Browse searchable community guides** | [hermes-agent-community](https://github.com/AtlasOmnia/hermes-agent-community) |
-| **Find a dated free-model snapshot** | [Free Models & APIs — June 2026](https://github.com/AtlasOmnia/hermes-megathreads/releases/tag/2026-06) |
+| **Find a dated free-model snapshot** | [Free Models & APIs — June 2026](https://github.com/AtlasOmnia/hermes-megathreads/blob/2026-06/megathreads/free-models-apis-2026-06.md) ([release](https://github.com/AtlasOmnia/hermes-megathreads/releases/tag/2026-06)) |
 | **Cut first-turn token overhead** | [hermes-tool-router](https://github.com/AtlasOmnia/hermes-tool-router) |
 | **Run automated research loops** | [hermes-autoresearch](https://github.com/AtlasOmnia/hermes-autoresearch) |
 | **Start with a prebuilt Hermes profile** | [donna-starter](https://github.com/AtlasOmnia/donna-starter) |
