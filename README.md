@@ -10,6 +10,7 @@ Moderator of [r/hermesagent](https://www.reddit.com/r/hermesagent/).
 | If you want to... | Go to |
 | --- | --- |
 | **Install a skill** for Hermes | [hermes-custom-pack](https://github.com/AtlasOmnia/hermes-custom-pack) |
+| **Install EMH, the diagnostic profile** | [EMH — Emergency Medical Hermes](https://github.com/AtlasOmnia/emh#install-locally-safely) |
 | **Set up Hermes from scratch** | [Start Here guide](https://github.com/AtlasOmnia/hermes-agent-community/blob/main/guides/start-here.md) |
 | **Browse searchable community guides** | [hermes-agent-community](https://github.com/AtlasOmnia/hermes-agent-community) |
 | **Find a dated free-model snapshot** | [Free Models & APIs — June 2026](https://github.com/AtlasOmnia/hermes-megathreads/blob/2026-06/megathreads/free-models-apis-2026-06.md) ([release](https://github.com/AtlasOmnia/hermes-megathreads/releases/tag/2026-06)) |
@@ -38,6 +39,8 @@ Browse the [skill catalog](https://github.com/AtlasOmnia/hermes-custom-pack#skil
 **[hermes-autoresearch](https://github.com/AtlasOmnia/hermes-autoresearch)** — Reusable Karpathy-style autoresearch harness.
 
 **[donna-starter](https://github.com/AtlasOmnia/donna-starter)** — A starter Hermes profile with a curated skill set and guided first-run orientation.
+
+**[EMH — Emergency Medical Hermes](https://github.com/AtlasOmnia/emh)** — An unofficial, fan-inspired Hermes Agent profile distribution with a clinical diagnostic voice. It diagnoses software, never people, and provides no medical care.
 
 ## Community
 
