@@ -1,22 +1,32 @@
 # Atlas Omnia
 
-Practical open-source tools and community resources for [Hermes Agent](https://github.com/NousResearch/hermes-agent).
-Moderator of [r/hermesagent](https://www.reddit.com/r/hermesagent/).
+Practical open-source tools, autonomous loops, and community resources for [Hermes Agent](https://github.com/NousResearch/hermes-agent). Moderator of [r/hermesagent](https://www.reddit.com/r/hermesagent/).
 
 ---
+
+## What's here
+
+| Category | What you'll find |
+| --- | --- |
+| **Skills** | Installable SKILL.md packages — [hermes-custom-pack](https://github.com/AtlasOmnia/hermes-custom-pack) |
+| **Loops** | Autonomous agent harnesses — [hermes-autoresearch](https://github.com/AtlasOmnia/hermes-autoresearch) · [hermes-health-improvement-loops](https://github.com/AtlasOmnia/hermes-health-improvement-loops) |
+| **Plugins** | Hermes plugins — [hermes-tool-router](https://github.com/AtlasOmnia/hermes-tool-router) |
+| **Profiles** | Prebuilt starter and diagnostic profiles — [donna-starter](https://github.com/AtlasOmnia/donna-starter) · [EMH](https://github.com/AtlasOmnia/EMH) |
+| **Community** | Guides, megathreads, and the subreddit — [hermes-agent-community](https://github.com/AtlasOmnia/hermes-agent-community) · [hermes-megathreads](https://github.com/AtlasOmnia/hermes-megathreads) · [r/hermesagent](https://www.reddit.com/r/hermesagent/) |
+| **Products** | Paid catalog of Hermes Agent integrations and apps — [hermesagenttools.com](https://hermesagenttools.com/) |
+
+*EMH is an unofficial, fan-inspired profile that diagnoses software, never people, and provides no medical care.*
 
 ## Start here
 
 | If you want to... | Go to |
 | --- | --- |
-| **Install a skill** for Hermes | [hermes-custom-pack](https://github.com/AtlasOmnia/hermes-custom-pack) |
-| **Install EMH, the diagnostic profile** | [EMH — Emergency Medical Hermes](https://github.com/AtlasOmnia/emh) |
+| **Install a skill** | [hermes-custom-pack](https://github.com/AtlasOmnia/hermes-custom-pack) — browse the [skill catalog](https://github.com/AtlasOmnia/hermes-custom-pack#skills) first |
+| **Run an autonomous loop** | [hermes-autoresearch](https://github.com/AtlasOmnia/hermes-autoresearch) · [hermes-health-improvement-loops](https://github.com/AtlasOmnia/hermes-health-improvement-loops) |
 | **Set up Hermes from scratch** | [Start Here guide](https://github.com/AtlasOmnia/hermes-agent-community/blob/main/guides/start-here.md) |
-| **Browse searchable community guides** | [hermes-agent-community](https://github.com/AtlasOmnia/hermes-agent-community) |
-| **Find a dated free-model snapshot** | [Free Models & APIs — June 2026](https://github.com/AtlasOmnia/hermes-megathreads/blob/2026-06/megathreads/free-models-apis-2026-06.md) ([release](https://github.com/AtlasOmnia/hermes-megathreads/releases/tag/2026-06)) |
+| **Start with a prebuilt profile** | [donna-starter](https://github.com/AtlasOmnia/donna-starter) · [EMH](https://github.com/AtlasOmnia/EMH) |
 | **Cut first-turn token overhead** | [hermes-tool-router](https://github.com/AtlasOmnia/hermes-tool-router) |
-| **Run automated research loops** | [hermes-autoresearch](https://github.com/AtlasOmnia/hermes-autoresearch) |
-| **Start with a prebuilt Hermes profile** | [donna-starter](https://github.com/AtlasOmnia/donna-starter) |
+| **Find a dated free-model snapshot** | [Free Models & APIs — June 2026](https://github.com/AtlasOmnia/hermes-megathreads/blob/2026-06/megathreads/free-models-apis-2026-06.md) ([release](https://github.com/AtlasOmnia/hermes-megathreads/releases/tag/2026-06)) |
 | **Ask for a skill or report a pack issue** | [Discussions](https://github.com/AtlasOmnia/hermes-custom-pack/discussions) |
 | **Fix or add to a community guide** | [Contributing](https://github.com/AtlasOmnia/hermes-agent-community/blob/main/CONTRIBUTING.md) |
 
@@ -26,33 +36,13 @@ Install any skill in one line, replacing `<skill-name>` with the package directo
 hermes skills install https://raw.githubusercontent.com/AtlasOmnia/hermes-custom-pack/main/skills/<skill-name>/SKILL.md
 ```
 
-Browse the [skill catalog](https://github.com/AtlasOmnia/hermes-custom-pack#skills) first. Inspect before you install — swap `install` for `inspect`.
+Inspect before you install — swap `install` for `inspect`.
 
 ---
 
-## Hermes Agent
-
-**[hermes-tool-router](https://github.com/AtlasOmnia/hermes-tool-router)** — Deterministic, fail-open tool routing with an optional local-model fallback. Reduces first-turn schema overhead.
-
-**[hermes-custom-pack](https://github.com/AtlasOmnia/hermes-custom-pack)** — Tested skills, plugins, integrations, and utilities. Each package installs standalone with explicit verification steps.
-
-**[hermes-autoresearch](https://github.com/AtlasOmnia/hermes-autoresearch)** — Reusable Karpathy-style autoresearch harness.
-
-**[donna-starter](https://github.com/AtlasOmnia/donna-starter)** — A starter Hermes profile with a curated skill set and guided first-run orientation.
-
-**[EMH — Emergency Medical Hermes](https://github.com/AtlasOmnia/emh)** — An unofficial, fan-inspired Hermes Agent profile distribution with a clinical diagnostic voice. It diagnoses software, never people, and provides no medical care.
-
-## Community
-
-**[hermes-agent-community](https://github.com/AtlasOmnia/hermes-agent-community)** — Searchable, daily-synced community guides, setup documentation, automation recipes, and mirrored r/hermesagent resources.
-
-**[hermes-megathreads](https://github.com/AtlasOmnia/hermes-megathreads)** — Dated, editable reference snapshots for models, providers, setup, operations, and community use cases.
-
-**[r/hermesagent](https://www.reddit.com/r/hermesagent/)** — Workflows, tools, troubleshooting, and practical ways to get more out of Hermes.
-
 ## Products
 
-**[hermesagenttools.com](https://hermesagenttools.com/)** — AtlasOmnia's commercial catalog of Hermes Agent integrations and apps.
+**[hermesagenttools.com](https://hermesagenttools.com/)** — the commercial catalog of AtlasOmnia's Hermes Agent integrations and apps. Free tools live here on GitHub; paid products live there.
 
 ---
 
