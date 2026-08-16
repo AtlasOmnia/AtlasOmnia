@@ -14,6 +14,7 @@ Practical open-source tools, autonomous loops, and community resources for [Herm
 | **Add a plugin / cut token overhead** | [hermes-tool-router](https://github.com/AtlasOmnia/hermes-tool-router) |
 | **Start from a prebuilt profile** | [donna-starter](https://github.com/AtlasOmnia/donna-starter) · [EMH](https://github.com/AtlasOmnia/EMH) |
 | **Read guides & dated references** | [hermes-agent-community](https://github.com/AtlasOmnia/hermes-agent-community) · [hermes-megathreads](https://github.com/AtlasOmnia/hermes-megathreads) |
+| **Browse Jonathan’s Reddit posts** | [Jonathan’s Reddit posts](https://github.com/AtlasOmnia/hermes-agent-community/blob/main/guides/jonathans-reddit-posts.md) |
 | **Buy a product** | [hermesagenttools.com](https://hermesagenttools.com/) |
 | **Ask or contribute** | [Discussions](https://github.com/AtlasOmnia/hermes-custom-pack/discussions) · [Contributing](https://github.com/AtlasOmnia/hermes-agent-community/blob/main/CONTRIBUTING.md) |
 
