@@ -12,7 +12,9 @@ Practical open-source tools, autonomous loops, and community resources for [Herm
 | **Install a skill** | [hermes-custom-pack](https://github.com/AtlasOmnia/hermes-custom-pack) — browse the [skill catalog](https://github.com/AtlasOmnia/hermes-custom-pack#skills) |
 | **Run an autonomous loop** | [hermes-loops](https://github.com/AtlasOmnia/hermes-loops) |
 | **Add a plugin / cut token overhead** | [hermes-tool-router](https://github.com/AtlasOmnia/hermes-tool-router) |
-| **Browse community desktop plugins** | [community-plugins](https://github.com/AtlasOmnia/community-plugins) — curated list, submit yours via PR |
+| **Browse community desktop plugins** | [community-plugins](https://github.com/AtlasOmnia/community-plugins) — curated native Desktop extensions, submit yours via PR |
+| **Browse community skills** | [community-skills](https://github.com/AtlasOmnia/community-skills) — source-linked workflows and integration guides |
+| **Browse community skins** | [community-skins](https://github.com/AtlasOmnia/community-skins) — static YAML palettes; ESM skin plugins stay in the plugin directory |
 | **Browse community projects** | [community-projects](https://github.com/AtlasOmnia/community-projects) — source-linked directory, listed not audited |
 | **Start from a prebuilt profile** | [donna-starter](https://github.com/AtlasOmnia/donna-starter) · [EMH](https://github.com/AtlasOmnia/EMH) |
 | **Read guides & dated references** | [hermes-agent-community](https://github.com/AtlasOmnia/hermes-agent-community) · [hermes-megathreads](https://github.com/AtlasOmnia/hermes-megathreads) |
