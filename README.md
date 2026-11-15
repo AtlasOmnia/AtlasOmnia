@@ -12,6 +12,7 @@ Practical open-source tools, autonomous loops, and community resources for [Herm
 | **Install a skill** | [hermes-custom-pack](https://github.com/AtlasOmnia/hermes-custom-pack) — browse the [skill catalog](https://github.com/AtlasOmnia/hermes-custom-pack#skills) |
 | **Run an autonomous loop** | [hermes-loops](https://github.com/AtlasOmnia/hermes-loops) |
 | **Add a plugin / cut token overhead** | [hermes-tool-router](https://github.com/AtlasOmnia/hermes-tool-router) |
+| **Use Hermes inside Microsoft Office** | [Sidecar](https://github.com/AtlasOmnia/sidecar) (native desktop Office) · [Workbench](https://github.com/AtlasOmnia/workbench) (Office web apps in a Hermes Desktop tab) |
 | **Browse community desktop plugins** | [community-plugins](https://github.com/AtlasOmnia/community-plugins) — curated native Desktop extensions, submit yours via PR |
 | **Browse community skills** | [community-skills](https://github.com/AtlasOmnia/community-skills) — source-linked workflows and integration guides |
 | **Browse community skins** | [community-skins](https://github.com/AtlasOmnia/community-skins) — static YAML palettes; ESM skin plugins stay in the plugin directory |
@@ -31,6 +32,18 @@ hermes skills install https://raw.githubusercontent.com/AtlasOmnia/hermes-custom
 ```
 
 Inspect before you install — swap `install` for `inspect`.
+
+---
+
+## Plugins
+
+| Plugin | What it does |
+| --- | --- |
+| [**Sidecar**](https://github.com/AtlasOmnia/sidecar) | Bring your own Hermes agent into native Microsoft Excel, Word, and PowerPoint — three independently installable plugins with their Office add-ins. |
+| [**Workbench**](https://github.com/AtlasOmnia/workbench) | Open and edit Word, Excel, PowerPoint, OneNote, and Outlook in a Hermes Desktop tab, with your agent working alongside you. |
+| [**hermes-tool-router**](https://github.com/AtlasOmnia/hermes-tool-router) | Deterministic, fail-open tool routing that cuts first-turn tool-schema tokens, with an optional local-model fallback. |
+
+*Sidecar and Workbench were built for the Hermes Plugin Hackathon. Independent projects, not affiliated with or endorsed by Microsoft; Microsoft Office product names are trademarks of Microsoft Corporation.*
 
 ---
 
