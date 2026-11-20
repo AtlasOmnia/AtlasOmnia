@@ -13,6 +13,7 @@ Practical open-source tools, autonomous loops, and community resources for [Herm
 | **Run an autonomous loop** | [hermes-loops](https://github.com/AtlasOmnia/hermes-loops) |
 | **Add a plugin / cut token overhead** | [hermes-tool-router](https://github.com/AtlasOmnia/hermes-tool-router) |
 | **Use Hermes inside Microsoft Office** | [Sidecar](https://github.com/AtlasOmnia/sidecar) (native desktop Office) · [Workbench](https://github.com/AtlasOmnia/workbench) (Office web apps in a Hermes Desktop tab) |
+| **Use Hermes inside LibreOffice** | [Sidecar for LibreOffice](https://github.com/AtlasOmnia/sidecar-libreoffice) (Calc, Writer, and Impress) |
 | **Browse community desktop plugins** | [community-plugins](https://github.com/AtlasOmnia/community-plugins) — curated native Desktop extensions, submit yours via PR |
 | **Browse community skills** | [community-skills](https://github.com/AtlasOmnia/community-skills) — source-linked workflows and integration guides |
 | **Browse community skins** | [community-skins](https://github.com/AtlasOmnia/community-skins) — static YAML palettes; ESM skin plugins stay in the plugin directory |
@@ -40,10 +41,11 @@ Inspect before you install — swap `install` for `inspect`.
 | Plugin | What it does |
 | --- | --- |
 | [**Sidecar**](https://github.com/AtlasOmnia/sidecar) | Bring your own Hermes agent into native Microsoft Excel, Word, and PowerPoint — three independently installable plugins with their Office add-ins. |
+| [**Sidecar for LibreOffice**](https://github.com/AtlasOmnia/sidecar-libreoffice) | Hermes reads and edits the Calc, Writer, and Impress documents you already have open, with an optional chat panel in the LibreOffice sidebar. macOS and Windows. |
 | [**Workbench**](https://github.com/AtlasOmnia/workbench) | Open and edit Word, Excel, PowerPoint, OneNote, and Outlook in a Hermes Desktop tab, with your agent working alongside you. |
 | [**hermes-tool-router**](https://github.com/AtlasOmnia/hermes-tool-router) | Deterministic, fail-open tool routing that cuts first-turn tool-schema tokens, with an optional local-model fallback. |
 
-*Sidecar and Workbench were built for the Hermes Plugin Hackathon. Independent projects, not affiliated with or endorsed by Microsoft; Microsoft Office product names are trademarks of Microsoft Corporation.*
+*Sidecar and Workbench were built for the Hermes Plugin Hackathon. Independent projects, not affiliated with or endorsed by Microsoft or The Document Foundation; Microsoft Office product names are trademarks of Microsoft Corporation, and LibreOffice is a registered trademark of The Document Foundation.*
 
 ---
 
