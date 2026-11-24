@@ -15,6 +15,7 @@ Community resources, free tools, and open-source integrations for Hermes Agent. 
 | [**community-skins**](https://github.com/AtlasOmnia/community-skins) | Static YAML palettes. ESM skin plugins stay in the plugin directory. |
 | [**community-projects**](https://github.com/AtlasOmnia/community-projects) | Source-linked directory of community projects. Listed, not audited. |
 | [**Jonathan's Reddit posts**](https://github.com/AtlasOmnia/hermes-agent-community/blob/main/guides/jonathans-reddit-posts.md) | Index of posts from r/hermesagent. |
+| [**Hermes Helper's Reddit posts**](https://github.com/AtlasOmnia/hermes-agent-community/blob/main/guides/hermes-helper-reddit-posts.md) | Index of u/Hermes_helper posts from r/hermesagent. |
 | [**Discussions**](https://github.com/AtlasOmnia/hermes-custom-pack/discussions) · [**Contributing**](https://github.com/AtlasOmnia/hermes-agent-community/blob/main/CONTRIBUTING.md) | Ask questions or contribute. |
 
 ---
